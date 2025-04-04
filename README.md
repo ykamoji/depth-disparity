@@ -1,2 +1,2 @@
-# depth-disparity
-Compute a depth image of the scene by computing the disparity map between two images using disparity map
+![Question 1](https://github.com/ykamoji/depth-disparity/blob/main/img_refs/question_1.png?raw=true)
+![Question 2](https://github.com/ykamoji/depth-disparity/blob/main/img_refs/question_2.png?raw=true)
