@@ -7,3 +7,6 @@
 <img src="https://github.com/ykamoji/depth-disparity/blob/main/img_refs/cones_2.png?raw=true" width="200"/>
 
 ![Depth Map 1](https://github.com/ykamoji/depth-disparity/blob/main/img_refs/depth_map_1.png?raw=true)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ykamoji/depth-disparity/blob/main/img_refs/teddy_1.png?raw=true" width="200"/>
