@@ -2,6 +2,7 @@
 ![Question 2](https://github.com/ykamoji/depth-disparity/blob/main/img_refs/question_2.png?raw=true)
 
 <hr/>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ykamoji/depth-disparity/blob/main/img_refs/cones_1.png?raw=true" width="200"/>
 <img src="https://github.com/ykamoji/depth-disparity/blob/main/img_refs/cones_2.png?raw=true" width="200"/>
